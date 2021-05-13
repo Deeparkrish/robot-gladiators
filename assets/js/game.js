@@ -72,6 +72,7 @@ var  startGame = function()
 {
     //reset player status 
     playerInfo.reset();
+    console.log(playerInfo);
 
     // fight each enemy-robot by looping over them and fighting them one at a time
     for(var i = 0; i < enemyInfo.length; i++) {
@@ -80,6 +81,7 @@ var  startGame = function()
         {
             // let player know what round they are in.
             window.alert("Welcome to Robot Gladiators! Round: "+ (i+1));
+            debugger;
             // pick new enemy to fight based on the index of the enemy array
             var pickedEnemyObj = enemyInfo[i];
             //set picked enemy's health
@@ -159,12 +161,24 @@ var shop = function() {
     };
 
 };
+
+//function to get player name 
+var getPlayerName =function(){
+    var name ="";
+    while(name ===""|| name === null)
+    {
+        name: window.prompt("What is your player's name?");
+    }
+        console.log("Your robot's name is " + name);
+        return name;
+    
+};
 /* END OF FUNCTIONS */
 
 /* PLAYER AND ENEMY OBJECT DECLARATIONS*/
 // Objects to hold  the player data 
 var playerInfo = {
-    name: window.prompt("What is your player's name?"),
+    name: getPlayerName(),
     health:100,
     attack: 10,
     money: 10,
@@ -192,7 +206,8 @@ var playerInfo = {
             else {
                 window.alert("You don't have enough money!");   
             }
-    }
+    },
+
 };
 
 // Array of enemy robots 
