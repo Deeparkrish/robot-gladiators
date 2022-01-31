@@ -2,6 +2,13 @@
 ## Description
 A browser-based combat simulator video game  where players will coach their robot through a series of fights gaining cash, attack power, and repairs along the way. The robot that survives with the most cash will be remembered in the browser's storage system and will be declared as winner.
 
+## Table of Contents 
+  * [Description](#description)
+  * [Process](#process)
+  * [Technologies](#technologies)
+  * [MockUp](#mockup)
+  * [Contribution](#contribution)
+
 ## Technologies 
 ### Javascript 
 JavaScript functions to display the game status to the player.
