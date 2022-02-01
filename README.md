@@ -51,6 +51,9 @@ At the start,
    <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg6.jpeg" height ="200px" width="300px" />
    <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg7.jpeg" height ="200px" width="300px" />
   </p>
+  
+  ## Contribution
+  Created with ❤️ by [Deepa Krishnan]
 
 
 
