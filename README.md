@@ -44,4 +44,15 @@ At the start,
         
  ## MockUp
 
-  <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg2.jpeg" height ="200px" width="200px" />
+  <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg2.jpeg" height ="200px" width="300px" />
+    <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg3.jpeg" height ="200px" width="300px" />
+      <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg4.jpeg" height ="200px" width="300px" />
+        <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg5.jpeg" height ="200px" width="300px" />
+          <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg6.jpeg" height ="200px" width="300px" />
+            <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg7.jpeg" height ="200px" width="300px" />
+
+
+
+
+    
+
