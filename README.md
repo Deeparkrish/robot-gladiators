@@ -52,8 +52,11 @@ At the start,
    <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg7.jpeg" height ="200px" width="300px" />
   </p>
   
+  ## Usage 
+   Open the HTML page in the browser.
+  
   ## Contribution
-  Created with ❤️ by [Deepa Krishnan]
+  Created with ❤️ by Deepa Krishnan
 
 
 
