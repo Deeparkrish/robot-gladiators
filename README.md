@@ -7,6 +7,7 @@ A browser-based combat simulator video game  where players will coach their robo
   * [Process](#process)
   * [Technologies](#technologies)
   * [MockUp](#mockup)
+  * [Usage](#usage)
   * [Contribution](#contribution)
 
 ## Technologies 
