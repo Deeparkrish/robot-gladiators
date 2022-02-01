@@ -41,3 +41,6 @@ At the start,
         Roborto will attack the player's robot, and Roberto's attack points will be deducted from the player's robot's health points.
         The game will display the player-robot's remaining health points.
         The game will end.
+        
+ ## MockUp
+           <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg2.jpeg" height ="200" width="200" />
