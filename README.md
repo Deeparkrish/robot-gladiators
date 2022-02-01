@@ -43,4 +43,5 @@ At the start,
         The game will end.
         
  ## MockUp
-           <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg2.jpeg" height ="200" width="200" />
+
+  <img src="https://github.com/Deeparkrish/robot-gladiators/blob/main/assets/rg2.jpeg" height ="200px" width="200px" />
